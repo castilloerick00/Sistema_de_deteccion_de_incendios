@@ -1,0 +1,1269 @@
+Resultados de Detección de Fuego:
+
+Imágenes con FUEGO:
+1.jpg: Sí
+1.jpg: Sí (Detección Correcta)
+10.jpg: Sí
+10.jpg: Sí (Detección Correcta)
+11.jpg: Sí
+11.jpg: Sí (Detección Correcta)
+12.jpg: Sí
+12.jpg: Sí (Detección Correcta)
+13.jpg: Sí
+13.jpg: Sí (Detección Correcta)
+14.jpg: Sí
+14.jpg: Sí (Detección Correcta)
+15.jpg: Sí
+15.jpg: Sí (Detección Correcta)
+16.jpg: Sí
+16.jpg: Sí (Detección Correcta)
+17.jpg: Sí
+17.jpg: Sí (Detección Correcta)
+18.jpg: Sí
+18.jpg: Sí (Detección Correcta)
+19.jpg: Sí
+19.jpg: Sí (Detección Correcta)
+2.jpg: Sí
+2.jpg: Sí (Detección Correcta)
+20.jpg: No
+20.jpg: No (Detección Errónea)
+21.jpg: No
+21.jpg: No (Detección Errónea)
+22.jpg: Sí
+22.jpg: Sí (Detección Correcta)
+222.jpg: Sí
+222.jpg: Sí (Detección Correcta)
+23.jpg: No
+23.jpg: No (Detección Errónea)
+24.jpg: Sí
+24.jpg: Sí (Detección Correcta)
+25.jpg: No
+25.jpg: No (Detección Errónea)
+26.jpg: No
+26.jpg: No (Detección Errónea)
+27.jpg: No
+27.jpg: No (Detección Errónea)
+28.jpg: No
+28.jpg: No (Detección Errónea)
+29.jpg: No
+29.jpg: No (Detección Errónea)
+3.jpg: Sí
+3.jpg: Sí (Detección Correcta)
+30.jpg: No
+30.jpg: No (Detección Errónea)
+31.jpg: Sí
+31.jpg: Sí (Detección Correcta)
+32.jpg: Sí
+32.jpg: Sí (Detección Correcta)
+33.jpg: Sí
+33.jpg: Sí (Detección Correcta)
+34.jpg: Sí
+34.jpg: Sí (Detección Correcta)
+35.jpg: Sí
+35.jpg: Sí (Detección Correcta)
+36.jpg: Sí
+36.jpg: Sí (Detección Correcta)
+37.jpg: Sí
+37.jpg: Sí (Detección Correcta)
+38.jpg: No
+38.jpg: No (Detección Errónea)
+39.jpg: No
+39.jpg: No (Detección Errónea)
+4.jpg: Sí
+4.jpg: Sí (Detección Correcta)
+40.jpg: No
+40.jpg: No (Detección Errónea)
+41.jpg: Sí
+41.jpg: Sí (Detección Correcta)
+42.jpg: Sí
+42.jpg: Sí (Detección Correcta)
+43.jpg: No
+43.jpg: No (Detección Errónea)
+44.jpg: No
+44.jpg: No (Detección Errónea)
+45.jpg: No
+45.jpg: No (Detección Errónea)
+5.jpg: Sí
+5.jpg: Sí (Detección Correcta)
+6.jpg: Sí
+6.jpg: Sí (Detección Correcta)
+7.jpg: Sí
+7.jpg: Sí (Detección Correcta)
+8.jpg: Sí
+8.jpg: Sí (Detección Correcta)
+9.jpg: Sí
+9.jpg: Sí (Detección Correcta)
+F_1.jpg: Sí
+F_1.jpg: Sí (Detección Correcta)
+F_10.jpg: Sí
+F_10.jpg: Sí (Detección Correcta)
+F_1001.jpg: Sí
+F_1001.jpg: Sí (Detección Correcta)
+F_1005.jpg: No
+F_1005.jpg: No (Detección Errónea)
+F_1023.jpg: Sí
+F_1023.jpg: Sí (Detección Correcta)
+F_1037.jpg: Sí
+F_1037.jpg: Sí (Detección Correcta)
+F_1042.jpg: Sí
+F_1042.jpg: Sí (Detección Correcta)
+F_1049.jpg: Sí
+F_1049.jpg: Sí (Detección Correcta)
+F_1052.jpg: Sí
+F_1052.jpg: Sí (Detección Correcta)
+F_1058.jpg: Sí
+F_1058.jpg: Sí (Detección Correcta)
+F_1063.jpg: Sí
+F_1063.jpg: Sí (Detección Correcta)
+F_107.jpg: Sí
+F_107.jpg: Sí (Detección Correcta)
+F_1072.jpg: Sí
+F_1072.jpg: Sí (Detección Correcta)
+F_1080.jpg: Sí
+F_1080.jpg: Sí (Detección Correcta)
+F_1085.jpg: Sí
+F_1085.jpg: Sí (Detección Correcta)
+F_1089.jpg: Sí
+F_1089.jpg: Sí (Detección Correcta)
+F_1101.jpg: Sí
+F_1101.jpg: Sí (Detección Correcta)
+F_1103.jpg: Sí
+F_1103.jpg: Sí (Detección Correcta)
+F_111.jpg: Sí
+F_111.jpg: Sí (Detección Correcta)
+F_1116.jpg: Sí
+F_1116.jpg: Sí (Detección Correcta)
+F_1158.jpg: Sí
+F_1158.jpg: Sí (Detección Correcta)
+F_1159.jpg: Sí
+F_1159.jpg: Sí (Detección Correcta)
+F_1160.jpg: Sí
+F_1160.jpg: Sí (Detección Correcta)
+F_1166.jpg: Sí
+F_1166.jpg: Sí (Detección Correcta)
+F_117.jpg: Sí
+F_117.jpg: Sí (Detección Correcta)
+F_1171.jpg: Sí
+F_1171.jpg: Sí (Detección Correcta)
+F_118.jpg: Sí
+F_118.jpg: Sí (Detección Correcta)
+F_1184.jpg: Sí
+F_1184.jpg: Sí (Detección Correcta)
+F_12.jpg: Sí
+F_12.jpg: Sí (Detección Correcta)
+F_1201.jpg: No
+F_1201.jpg: No (Detección Errónea)
+F_1204.jpg: Sí
+F_1204.jpg: Sí (Detección Correcta)
+F_1209.jpg: Sí
+F_1209.jpg: Sí (Detección Correcta)
+F_1234.jpg: Sí
+F_1234.jpg: Sí (Detección Correcta)
+F_1236.jpg: Sí
+F_1236.jpg: Sí (Detección Correcta)
+F_1239.jpg: Sí
+F_1239.jpg: Sí (Detección Correcta)
+F_126.jpg: Sí
+F_126.jpg: Sí (Detección Correcta)
+F_13.jpg: Sí
+F_13.jpg: Sí (Detección Correcta)
+F_130.jpg: Sí
+F_130.jpg: Sí (Detección Correcta)
+F_1306.jpg: Sí
+F_1306.jpg: Sí (Detección Correcta)
+F_132.jpg: Sí
+F_132.jpg: Sí (Detección Correcta)
+F_1326.jpg: No
+F_1326.jpg: No (Detección Errónea)
+F_1344.jpg: Sí
+F_1344.jpg: Sí (Detección Correcta)
+F_135.jpg: Sí
+F_135.jpg: Sí (Detección Correcta)
+F_1351.jpg: Sí
+F_1351.jpg: Sí (Detección Correcta)
+F_1369.jpg: No
+F_1369.jpg: No (Detección Errónea)
+F_1397.jpg: Sí
+F_1397.jpg: Sí (Detección Correcta)
+F_140.jpg: Sí
+F_140.jpg: Sí (Detección Correcta)
+F_1408.jpg: Sí
+F_1408.jpg: Sí (Detección Correcta)
+F_1414.jpg: Sí
+F_1414.jpg: Sí (Detección Correcta)
+F_1420.jpg: Sí
+F_1420.jpg: Sí (Detección Correcta)
+F_1425.jpg: Sí
+F_1425.jpg: Sí (Detección Correcta)
+F_1427.jpg: Sí
+F_1427.jpg: Sí (Detección Correcta)
+F_1429.jpg: No
+F_1429.jpg: No (Detección Errónea)
+F_1439.jpg: Sí
+F_1439.jpg: Sí (Detección Correcta)
+F_144.jpg: Sí
+F_144.jpg: Sí (Detección Correcta)
+F_1445.jpg: Sí
+F_1445.jpg: Sí (Detección Correcta)
+F_1459.jpg: Sí
+F_1459.jpg: Sí (Detección Correcta)
+F_1468.jpg: Sí
+F_1468.jpg: Sí (Detección Correcta)
+F_148.jpg: Sí
+F_148.jpg: Sí (Detección Correcta)
+F_1494.jpg: Sí
+F_1494.jpg: Sí (Detección Correcta)
+F_153.jpg: Sí
+F_153.jpg: Sí (Detección Correcta)
+F_1576.jpg: Sí
+F_1576.jpg: Sí (Detección Correcta)
+F_158.jpg: Sí
+F_158.jpg: Sí (Detección Correcta)
+F_1587.jpg: Sí
+F_1587.jpg: Sí (Detección Correcta)
+F_1590.jpg: Sí
+F_1590.jpg: Sí (Detección Correcta)
+F_16.jpg: Sí
+F_16.jpg: Sí (Detección Correcta)
+F_1602.jpg: Sí
+F_1602.jpg: Sí (Detección Correcta)
+F_1609.jpg: Sí
+F_1609.jpg: Sí (Detección Correcta)
+F_1618.jpg: Sí
+F_1618.jpg: Sí (Detección Correcta)
+F_162.jpg: Sí
+F_162.jpg: Sí (Detección Correcta)
+F_1624.jpg: Sí
+F_1624.jpg: Sí (Detección Correcta)
+F_1635.jpg: Sí
+F_1635.jpg: Sí (Detección Correcta)
+F_174.jpg: Sí
+F_174.jpg: Sí (Detección Correcta)
+F_176.jpg: Sí
+F_176.jpg: Sí (Detección Correcta)
+F_177.jpg: Sí
+F_177.jpg: Sí (Detección Correcta)
+F_18.jpg: Sí
+F_18.jpg: Sí (Detección Correcta)
+F_181.jpg: Sí
+F_181.jpg: Sí (Detección Correcta)
+F_185.jpg: Sí
+F_185.jpg: Sí (Detección Correcta)
+F_186.jpg: Sí
+F_186.jpg: Sí (Detección Correcta)
+F_187.jpg: Sí
+F_187.jpg: Sí (Detección Correcta)
+F_188.jpg: No
+F_188.jpg: No (Detección Errónea)
+F_190.jpg: Sí
+F_190.jpg: Sí (Detección Correcta)
+F_191.jpg: Sí
+F_191.jpg: Sí (Detección Correcta)
+F_197.jpg: Sí
+F_197.jpg: Sí (Detección Correcta)
+F_2.jpg: Sí
+F_2.jpg: Sí (Detección Correcta)
+F_202.jpg: Sí
+F_202.jpg: Sí (Detección Correcta)
+F_203.jpg: Sí
+F_203.jpg: Sí (Detección Correcta)
+F_208.jpg: Sí
+F_208.jpg: Sí (Detección Correcta)
+F_218.jpg: Sí
+F_218.jpg: Sí (Detección Correcta)
+F_223.jpg: Sí
+F_223.jpg: Sí (Detección Correcta)
+F_225.jpg: Sí
+F_225.jpg: Sí (Detección Correcta)
+F_232.jpg: Sí
+F_232.jpg: Sí (Detección Correcta)
+F_24.jpg: Sí
+F_24.jpg: Sí (Detección Correcta)
+F_246.jpg: Sí
+F_246.jpg: Sí (Detección Correcta)
+F_248.jpg: Sí
+F_248.jpg: Sí (Detección Correcta)
+F_251.jpg: Sí
+F_251.jpg: Sí (Detección Correcta)
+F_256.jpg: Sí
+F_256.jpg: Sí (Detección Correcta)
+F_258.jpg: Sí
+F_258.jpg: Sí (Detección Correcta)
+F_259.jpg: Sí
+F_259.jpg: Sí (Detección Correcta)
+F_26.jpg: Sí
+F_26.jpg: Sí (Detección Correcta)
+F_262.jpg: Sí
+F_262.jpg: Sí (Detección Correcta)
+F_264.jpg: Sí
+F_264.jpg: Sí (Detección Correcta)
+F_268.jpg: Sí
+F_268.jpg: Sí (Detección Correcta)
+F_274.jpg: Sí
+F_274.jpg: Sí (Detección Correcta)
+F_276.jpg: Sí
+F_276.jpg: Sí (Detección Correcta)
+F_277.jpg: Sí
+F_277.jpg: Sí (Detección Correcta)
+F_280.jpg: Sí
+F_280.jpg: Sí (Detección Correcta)
+F_29.jpg: Sí
+F_29.jpg: Sí (Detección Correcta)
+F_293.jpg: Sí
+F_293.jpg: Sí (Detección Correcta)
+F_296.jpg: Sí
+F_296.jpg: Sí (Detección Correcta)
+F_298.jpg: Sí
+F_298.jpg: Sí (Detección Correcta)
+F_30.jpg: Sí
+F_30.jpg: Sí (Detección Correcta)
+F_300.jpg: Sí
+F_300.jpg: Sí (Detección Correcta)
+F_313.jpg: Sí
+F_313.jpg: Sí (Detección Correcta)
+F_32.jpg: Sí
+F_32.jpg: Sí (Detección Correcta)
+F_321.jpg: Sí
+F_321.jpg: Sí (Detección Correcta)
+F_324.jpg: Sí
+F_324.jpg: Sí (Detección Correcta)
+F_325.jpg: Sí
+F_325.jpg: Sí (Detección Correcta)
+F_33.jpg: Sí
+F_33.jpg: Sí (Detección Correcta)
+F_333.jpg: Sí
+F_333.jpg: Sí (Detección Correcta)
+F_341.jpg: Sí
+F_341.jpg: Sí (Detección Correcta)
+F_371.jpg: Sí
+F_371.jpg: Sí (Detección Correcta)
+F_373.jpg: Sí
+F_373.jpg: Sí (Detección Correcta)
+F_39.jpg: Sí
+F_39.jpg: Sí (Detección Correcta)
+F_4.jpg: Sí
+F_4.jpg: Sí (Detección Correcta)
+F_43.jpg: Sí
+F_43.jpg: Sí (Detección Correcta)
+F_44.jpg: Sí
+F_44.jpg: Sí (Detección Correcta)
+F_476.jpg: Sí
+F_476.jpg: Sí (Detección Correcta)
+F_48.jpg: Sí
+F_48.jpg: Sí (Detección Correcta)
+F_49.jpg: Sí
+F_49.jpg: Sí (Detección Correcta)
+F_5.jpg: Sí
+F_5.jpg: Sí (Detección Correcta)
+F_51.jpg: Sí
+F_51.jpg: Sí (Detección Correcta)
+F_52.jpg: Sí
+F_52.jpg: Sí (Detección Correcta)
+F_534.jpg: Sí
+F_534.jpg: Sí (Detección Correcta)
+F_54.jpg: Sí
+F_54.jpg: Sí (Detección Correcta)
+F_55.jpg: Sí
+F_55.jpg: Sí (Detección Correcta)
+F_558.jpg: Sí
+F_558.jpg: Sí (Detección Correcta)
+F_566.jpg: Sí
+F_566.jpg: Sí (Detección Correcta)
+F_569.jpg: Sí
+F_569.jpg: Sí (Detección Correcta)
+F_58.jpg: Sí
+F_58.jpg: Sí (Detección Correcta)
+F_6.jpg: Sí
+F_6.jpg: Sí (Detección Correcta)
+F_7.jpg: Sí
+F_7.jpg: Sí (Detección Correcta)
+F_79.jpg: Sí
+F_79.jpg: Sí (Detección Correcta)
+F_95.jpg: Sí
+F_95.jpg: Sí (Detección Correcta)
+F_97.jpg: Sí
+F_97.jpg: Sí (Detección Correcta)
+F_99.jpg: Sí
+F_99.jpg: Sí (Detección Correcta)
+bosque8.jpg: Sí
+bosque8.jpg: Sí (Detección Correcta)
+d3.jpg: Sí
+d3.jpg: Sí (Detección Correcta)
+df.jpg: Sí
+df.jpg: Sí (Detección Correcta)
+ee.jpg: Sí
+ee.jpg: Sí (Detección Correcta)
+imagen.jpeg: Sí
+imagen.jpeg: Sí (Detección Correcta)
+imagen13.jpg: Sí
+imagen13.jpg: Sí (Detección Correcta)
+imagen2.jpeg: Sí
+imagen2.jpeg: Sí (Detección Correcta)
+video0_0057.jpg: Sí
+video0_0057.jpg: Sí (Detección Correcta)
+video0_0058.jpg: Sí
+video0_0058.jpg: Sí (Detección Correcta)
+video0_0059.jpg: Sí
+video0_0059.jpg: Sí (Detección Correcta)
+video0_0060.jpg: Sí
+video0_0060.jpg: Sí (Detección Correcta)
+video0_0061.jpg: Sí
+video0_0061.jpg: Sí (Detección Correcta)
+video0_0062.jpg: Sí
+video0_0062.jpg: Sí (Detección Correcta)
+video0_0063.jpg: Sí
+video0_0063.jpg: Sí (Detección Correcta)
+video0_0064.jpg: Sí
+video0_0064.jpg: Sí (Detección Correcta)
+video0_0065.jpg: Sí
+video0_0065.jpg: Sí (Detección Correcta)
+video0_0066.jpg: Sí
+video0_0066.jpg: Sí (Detección Correcta)
+video0_0067.jpg: Sí
+video0_0067.jpg: Sí (Detección Correcta)
+video0_0068.jpg: Sí
+video0_0068.jpg: Sí (Detección Correcta)
+video0_0069.jpg: Sí
+video0_0069.jpg: Sí (Detección Correcta)
+video0_0070.jpg: Sí
+video0_0070.jpg: Sí (Detección Correcta)
+video0_0071.jpg: Sí
+video0_0071.jpg: Sí (Detección Correcta)
+video0_0072.jpg: Sí
+video0_0072.jpg: Sí (Detección Correcta)
+video0_0073.jpg: Sí
+video0_0073.jpg: Sí (Detección Correcta)
+video0_0074.jpg: Sí
+video0_0074.jpg: Sí (Detección Correcta)
+video0_0075.jpg: Sí
+video0_0075.jpg: Sí (Detección Correcta)
+video0_0076.jpg: No
+video0_0076.jpg: No (Detección Errónea)
+video0_0077.jpg: No
+video0_0077.jpg: No (Detección Errónea)
+video0_0078.jpg: Sí
+video0_0078.jpg: Sí (Detección Correcta)
+video0_0079.jpg: No
+video0_0079.jpg: No (Detección Errónea)
+video0_0080.jpg: Sí
+video0_0080.jpg: Sí (Detección Correcta)
+video0_0081.jpg: No
+video0_0081.jpg: No (Detección Errónea)
+video0_0082.jpg: No
+video0_0082.jpg: No (Detección Errónea)
+video0_0083.jpg: No
+video0_0083.jpg: No (Detección Errónea)
+video0_0084.jpg: No
+video0_0084.jpg: No (Detección Errónea)
+video0_0085.jpg: No
+video0_0085.jpg: No (Detección Errónea)
+video0_0086.jpg: No
+video0_0086.jpg: No (Detección Errónea)
+video0_0087.jpg: Sí
+video0_0087.jpg: Sí (Detección Correcta)
+video0_0088.jpg: Sí
+video0_0088.jpg: Sí (Detección Correcta)
+video0_0089.jpg: Sí
+video0_0089.jpg: Sí (Detección Correcta)
+video0_0090.jpg: Sí
+video0_0090.jpg: Sí (Detección Correcta)
+video0_0091.jpg: Sí
+video0_0091.jpg: Sí (Detección Correcta)
+video0_0092.jpg: Sí
+video0_0092.jpg: Sí (Detección Correcta)
+video0_0093.jpg: Sí
+video0_0093.jpg: Sí (Detección Correcta)
+video0_0094.jpg: No
+video0_0094.jpg: No (Detección Errónea)
+video0_0095.jpg: No
+video0_0095.jpg: No (Detección Errónea)
+video0_0096.jpg: No
+video0_0096.jpg: No (Detección Errónea)
+video0_0097.jpg: Sí
+video0_0097.jpg: Sí (Detección Correcta)
+video0_0098.jpg: Sí
+video0_0098.jpg: Sí (Detección Correcta)
+video0_0099.jpg: No
+video0_0099.jpg: No (Detección Errónea)
+video0_0100.jpg: No
+video0_0100.jpg: No (Detección Errónea)
+video0_0101.jpg: No
+video0_0101.jpg: No (Detección Errónea)
+video2_0000.jpg: Sí
+video2_0000.jpg: Sí (Detección Correcta)
+video2_0001.jpg: Sí
+video2_0001.jpg: Sí (Detección Correcta)
+video2_0002.jpg: Sí
+video2_0002.jpg: Sí (Detección Correcta)
+video2_0003.jpg: Sí
+video2_0003.jpg: Sí (Detección Correcta)
+video2_0004.jpg: Sí
+video2_0004.jpg: Sí (Detección Correcta)
+video2_0005.jpg: Sí
+video2_0005.jpg: Sí (Detección Correcta)
+video2_0006.jpg: Sí
+video2_0006.jpg: Sí (Detección Correcta)
+video2_0007.jpg: Sí
+video2_0007.jpg: Sí (Detección Correcta)
+video2_0008.jpg: Sí
+video2_0008.jpg: Sí (Detección Correcta)
+video2_0009.jpg: Sí
+video2_0009.jpg: Sí (Detección Correcta)
+video2_0010.jpg: Sí
+video2_0010.jpg: Sí (Detección Correcta)
+video2_0011.jpg: Sí
+video2_0011.jpg: Sí (Detección Correcta)
+video2_0012.jpg: Sí
+video2_0012.jpg: Sí (Detección Correcta)
+video2_0013.jpg: Sí
+video2_0013.jpg: Sí (Detección Correcta)
+video2_0014.jpg: Sí
+video2_0014.jpg: Sí (Detección Correcta)
+video2_0015.jpg: Sí
+video2_0015.jpg: Sí (Detección Correcta)
+video2_0016.jpg: Sí
+video2_0016.jpg: Sí (Detección Correcta)
+video2_0017.jpg: Sí
+video2_0017.jpg: Sí (Detección Correcta)
+video2_0018.jpg: Sí
+video2_0018.jpg: Sí (Detección Correcta)
+video2_0019.jpg: Sí
+video2_0019.jpg: Sí (Detección Correcta)
+video2_0020.jpg: Sí
+video2_0020.jpg: Sí (Detección Correcta)
+video2_0021.jpg: Sí
+video2_0021.jpg: Sí (Detección Correcta)
+video2_0022.jpg: Sí
+video2_0022.jpg: Sí (Detección Correcta)
+video2_0023.jpg: Sí
+video2_0023.jpg: Sí (Detección Correcta)
+video2_0024.jpg: Sí
+video2_0024.jpg: Sí (Detección Correcta)
+video2_0025.jpg: Sí
+video2_0025.jpg: Sí (Detección Correcta)
+video2_0026.jpg: Sí
+video2_0026.jpg: Sí (Detección Correcta)
+video2_0027.jpg: Sí
+video2_0027.jpg: Sí (Detección Correcta)
+video2_0028.jpg: Sí
+video2_0028.jpg: Sí (Detección Correcta)
+video2_0029.jpg: Sí
+video2_0029.jpg: Sí (Detección Correcta)
+video2_0030.jpg: Sí
+video2_0030.jpg: Sí (Detección Correcta)
+video2_0031.jpg: Sí
+video2_0031.jpg: Sí (Detección Correcta)
+video2_0032.jpg: Sí
+video2_0032.jpg: Sí (Detección Correcta)
+video2_0033.jpg: Sí
+video2_0033.jpg: Sí (Detección Correcta)
+video2_0034.jpg: Sí
+video2_0034.jpg: Sí (Detección Correcta)
+video2_0035.jpg: Sí
+video2_0035.jpg: Sí (Detección Correcta)
+video2_0036.jpg: Sí
+video2_0036.jpg: Sí (Detección Correcta)
+video2_0037.jpg: Sí
+video2_0037.jpg: Sí (Detección Correcta)
+video2_0038.jpg: Sí
+video2_0038.jpg: Sí (Detección Correcta)
+video2_0039.jpg: Sí
+video2_0039.jpg: Sí (Detección Correcta)
+video2_0045.jpg: Sí
+video2_0045.jpg: Sí (Detección Correcta)
+video2_0046.jpg: Sí
+video2_0046.jpg: Sí (Detección Correcta)
+video2_0047.jpg: Sí
+video2_0047.jpg: Sí (Detección Correcta)
+video2_0048.jpg: Sí
+video2_0048.jpg: Sí (Detección Correcta)
+video2_0049.jpg: Sí
+video2_0049.jpg: Sí (Detección Correcta)
+video3_0000.jpg: Sí
+video3_0000.jpg: Sí (Detección Correcta)
+video3_0001.jpg: Sí
+video3_0001.jpg: Sí (Detección Correcta)
+video3_0002.jpg: Sí
+video3_0002.jpg: Sí (Detección Correcta)
+video3_0003.jpg: Sí
+video3_0003.jpg: Sí (Detección Correcta)
+video3_0004.jpg: Sí
+video3_0004.jpg: Sí (Detección Correcta)
+video3_0005.jpg: Sí
+video3_0005.jpg: Sí (Detección Correcta)
+video3_0006.jpg: Sí
+video3_0006.jpg: Sí (Detección Correcta)
+video3_0007.jpg: Sí
+video3_0007.jpg: Sí (Detección Correcta)
+video3_0008.jpg: Sí
+video3_0008.jpg: Sí (Detección Correcta)
+video3_0009.jpg: Sí
+video3_0009.jpg: Sí (Detección Correcta)
+video3_0014.jpg: Sí
+video3_0014.jpg: Sí (Detección Correcta)
+video3_0015.jpg: Sí
+video3_0015.jpg: Sí (Detección Correcta)
+video3_0016.jpg: Sí
+video3_0016.jpg: Sí (Detección Correcta)
+video3_0017.jpg: Sí
+video3_0017.jpg: Sí (Detección Correcta)
+video3_0018.jpg: Sí
+video3_0018.jpg: Sí (Detección Correcta)
+video3_0019.jpg: Sí
+video3_0019.jpg: Sí (Detección Correcta)
+video3_0020.jpg: Sí
+video3_0020.jpg: Sí (Detección Correcta)
+video3_0021.jpg: Sí
+video3_0021.jpg: Sí (Detección Correcta)
+video3_0022.jpg: Sí
+video3_0022.jpg: Sí (Detección Correcta)
+video3_0023.jpg: Sí
+video3_0023.jpg: Sí (Detección Correcta)
+video3_0024.jpg: Sí
+video3_0024.jpg: Sí (Detección Correcta)
+video3_0025.jpg: Sí
+video3_0025.jpg: Sí (Detección Correcta)
+video3_0026.jpg: Sí
+video3_0026.jpg: Sí (Detección Correcta)
+video3_0027.jpg: Sí
+video3_0027.jpg: Sí (Detección Correcta)
+video3_0028.jpg: Sí
+video3_0028.jpg: Sí (Detección Correcta)
+video3_0029.jpg: Sí
+video3_0029.jpg: Sí (Detección Correcta)
+video3_0030.jpg: Sí
+video3_0030.jpg: Sí (Detección Correcta)
+video3_0031.jpg: Sí
+video3_0031.jpg: Sí (Detección Correcta)
+video3_0032.jpg: Sí
+video3_0032.jpg: Sí (Detección Correcta)
+video3_0033.jpg: Sí
+video3_0033.jpg: Sí (Detección Correcta)
+video3_0034.jpg: Sí
+video3_0034.jpg: Sí (Detección Correcta)
+
+Imágenes SIN fuego:
+NF_10.jpg: No
+NF_10.jpg: No (Detección Correcta)
+NF_11.jpg: No
+NF_11.jpg: No (Detección Correcta)
+NF_12.jpg: No
+NF_12.jpg: No (Detección Correcta)
+NF_122.jpg: No
+NF_122.jpg: No (Detección Correcta)
+NF_14.jpg: No
+NF_14.jpg: No (Detección Correcta)
+NF_163.jpg: No
+NF_163.jpg: No (Detección Correcta)
+NF_165.jpg: No
+NF_165.jpg: No (Detección Correcta)
+NF_166.jpg: No
+NF_166.jpg: No (Detección Correcta)
+NF_168.jpg: No
+NF_168.jpg: No (Detección Correcta)
+NF_17.jpg: No
+NF_17.jpg: No (Detección Correcta)
+NF_170.jpg: No
+NF_170.jpg: No (Detección Correcta)
+NF_172.jpg: Sí
+NF_172.jpg: Sí (Detección Errónea)
+NF_174.jpg: No
+NF_174.jpg: No (Detección Correcta)
+NF_175.jpg: No
+NF_175.jpg: No (Detección Correcta)
+NF_177.jpg: No
+NF_177.jpg: No (Detección Correcta)
+NF_178.jpg: No
+NF_178.jpg: No (Detección Correcta)
+NF_180.jpg: No
+NF_180.jpg: No (Detección Correcta)
+NF_181.jpg: No
+NF_181.jpg: No (Detección Correcta)
+NF_184.jpg: No
+NF_184.jpg: No (Detección Correcta)
+NF_185.jpg: No
+NF_185.jpg: No (Detección Correcta)
+NF_187.jpg: No
+NF_187.jpg: No (Detección Correcta)
+NF_189.jpg: No
+NF_189.jpg: No (Detección Correcta)
+NF_19.jpg: No
+NF_19.jpg: No (Detección Correcta)
+NF_190.jpg: No
+NF_190.jpg: No (Detección Correcta)
+NF_192.jpg: No
+NF_192.jpg: No (Detección Correcta)
+NF_193.jpg: No
+NF_193.jpg: No (Detección Correcta)
+NF_195.jpg: No
+NF_195.jpg: No (Detección Correcta)
+NF_196.jpg: No
+NF_196.jpg: No (Detección Correcta)
+NF_197.jpg: No
+NF_197.jpg: No (Detección Correcta)
+NF_198.jpg: No
+NF_198.jpg: No (Detección Correcta)
+NF_199.jpg: No
+NF_199.jpg: No (Detección Correcta)
+NF_201.jpg: No
+NF_201.jpg: No (Detección Correcta)
+NF_24.jpg: No
+NF_24.jpg: No (Detección Correcta)
+NF_25.jpg: No
+NF_25.jpg: No (Detección Correcta)
+NF_252.jpg: No
+NF_252.jpg: No (Detección Correcta)
+NF_253.jpg: No
+NF_253.jpg: No (Detección Correcta)
+NF_254.jpg: No
+NF_254.jpg: No (Detección Correcta)
+NF_255.jpg: No
+NF_255.jpg: No (Detección Correcta)
+NF_261.jpg: No
+NF_261.jpg: No (Detección Correcta)
+NF_263.jpg: No
+NF_263.jpg: No (Detección Correcta)
+NF_269.jpg: No
+NF_269.jpg: No (Detección Correcta)
+NF_27.jpg: No
+NF_27.jpg: No (Detección Correcta)
+NF_28.jpg: No
+NF_28.jpg: No (Detección Correcta)
+NF_280.jpg: No
+NF_280.jpg: No (Detección Correcta)
+NF_284.jpg: No
+NF_284.jpg: No (Detección Correcta)
+NF_298.jpg: No
+NF_298.jpg: No (Detección Correcta)
+NF_299.jpg: No
+NF_299.jpg: No (Detección Correcta)
+NF_3.jpg: No
+NF_3.jpg: No (Detección Correcta)
+NF_302.jpg: No
+NF_302.jpg: No (Detección Correcta)
+NF_303.jpg: No
+NF_303.jpg: No (Detección Correcta)
+NF_304.jpg: No
+NF_304.jpg: No (Detección Correcta)
+NF_308.jpg: No
+NF_308.jpg: No (Detección Correcta)
+NF_310.jpg: No
+NF_310.jpg: No (Detección Correcta)
+NF_311.jpg: No
+NF_311.jpg: No (Detección Correcta)
+NF_314.jpg: No
+NF_314.jpg: No (Detección Correcta)
+NF_315.jpg: No
+NF_315.jpg: No (Detección Correcta)
+NF_316.jpg: No
+NF_316.jpg: No (Detección Correcta)
+NF_317.jpg: No
+NF_317.jpg: No (Detección Correcta)
+NF_320.jpg: No
+NF_320.jpg: No (Detección Correcta)
+NF_34.jpg: No
+NF_34.jpg: No (Detección Correcta)
+NF_340.jpg: No
+NF_340.jpg: No (Detección Correcta)
+NF_341.jpg: No
+NF_341.jpg: No (Detección Correcta)
+NF_343.jpg: No
+NF_343.jpg: No (Detección Correcta)
+NF_344.jpg: No
+NF_344.jpg: No (Detección Correcta)
+NF_348.jpg: No
+NF_348.jpg: No (Detección Correcta)
+NF_349.jpg: No
+NF_349.jpg: No (Detección Correcta)
+NF_35.jpg: No
+NF_35.jpg: No (Detección Correcta)
+NF_350.jpg: No
+NF_350.jpg: No (Detección Correcta)
+NF_353.jpg: No
+NF_353.jpg: No (Detección Correcta)
+NF_355.jpg: No
+NF_355.jpg: No (Detección Correcta)
+NF_356.jpg: No
+NF_356.jpg: No (Detección Correcta)
+NF_358.jpg: No
+NF_358.jpg: No (Detección Correcta)
+NF_360.jpg: No
+NF_360.jpg: No (Detección Correcta)
+NF_37.jpg: No
+NF_37.jpg: No (Detección Correcta)
+NF_370.jpg: No
+NF_370.jpg: No (Detección Correcta)
+NF_371.jpg: No
+NF_371.jpg: No (Detección Correcta)
+NF_379.jpg: No
+NF_379.jpg: No (Detección Correcta)
+NF_393.jpg: Sí
+NF_393.jpg: Sí (Detección Errónea)
+NF_394.jpg: No
+NF_394.jpg: No (Detección Correcta)
+NF_402.jpg: Sí
+NF_402.jpg: Sí (Detección Errónea)
+NF_407.jpg: No
+NF_407.jpg: No (Detección Correcta)
+NF_409.jpg: No
+NF_409.jpg: No (Detección Correcta)
+NF_410.jpg: No
+NF_410.jpg: No (Detección Correcta)
+NF_411.jpg: No
+NF_411.jpg: No (Detección Correcta)
+NF_412.jpg: No
+NF_412.jpg: No (Detección Correcta)
+NF_413.jpg: No
+NF_413.jpg: No (Detección Correcta)
+NF_414.jpg: No
+NF_414.jpg: No (Detección Correcta)
+NF_415.jpg: Sí
+NF_415.jpg: Sí (Detección Errónea)
+NF_416.jpg: No
+NF_416.jpg: No (Detección Correcta)
+NF_417.jpg: No
+NF_417.jpg: No (Detección Correcta)
+NF_418.jpg: No
+NF_418.jpg: No (Detección Correcta)
+NF_419.jpg: No
+NF_419.jpg: No (Detección Correcta)
+NF_42.jpg: No
+NF_42.jpg: No (Detección Correcta)
+NF_431.jpg: No
+NF_431.jpg: No (Detección Correcta)
+NF_436.jpg: No
+NF_436.jpg: No (Detección Correcta)
+NF_437.jpg: No
+NF_437.jpg: No (Detección Correcta)
+NF_45.jpg: No
+NF_45.jpg: No (Detección Correcta)
+NF_456.jpg: No
+NF_456.jpg: No (Detección Correcta)
+NF_46.jpg: No
+NF_46.jpg: No (Detección Correcta)
+NF_47.jpg: No
+NF_47.jpg: No (Detección Correcta)
+NF_48.jpg: No
+NF_48.jpg: No (Detección Correcta)
+NF_486.jpg: No
+NF_486.jpg: No (Detección Correcta)
+NF_487.jpg: No
+NF_487.jpg: No (Detección Correcta)
+NF_488.jpg: No
+NF_488.jpg: No (Detección Correcta)
+NF_489.jpg: No
+NF_489.jpg: No (Detección Correcta)
+NF_5.jpg: No
+NF_5.jpg: No (Detección Correcta)
+NF_51.jpg: No
+NF_51.jpg: No (Detección Correcta)
+NF_57.jpg: No
+NF_57.jpg: No (Detección Correcta)
+NF_721.jpg: No
+NF_721.jpg: No (Detección Correcta)
+NF_724.jpg: No
+NF_724.jpg: No (Detección Correcta)
+NF_725.jpg: No
+NF_725.jpg: No (Detección Correcta)
+NF_730.jpg: No
+NF_730.jpg: No (Detección Correcta)
+NF_737.jpg: No
+NF_737.jpg: No (Detección Correcta)
+NF_740.jpg: No
+NF_740.jpg: No (Detección Correcta)
+NF_741.jpg: No
+NF_741.jpg: No (Detección Correcta)
+NF_744.jpg: No
+NF_744.jpg: No (Detección Correcta)
+NF_745.jpg: No
+NF_745.jpg: No (Detección Correcta)
+NF_75.jpg: No
+NF_75.jpg: No (Detección Correcta)
+NF_750.jpg: Sí
+NF_750.jpg: Sí (Detección Errónea)
+NF_751.jpg: No
+NF_751.jpg: No (Detección Correcta)
+NF_756.jpg: No
+NF_756.jpg: No (Detección Correcta)
+NF_757.jpg: No
+NF_757.jpg: No (Detección Correcta)
+NF_759.jpg: No
+NF_759.jpg: No (Detección Correcta)
+NF_770.jpg: No
+NF_770.jpg: No (Detección Correcta)
+NF_771.jpg: No
+NF_771.jpg: No (Detección Correcta)
+NF_775.jpg: No
+NF_775.jpg: No (Detección Correcta)
+NF_777.jpg: No
+NF_777.jpg: No (Detección Correcta)
+NF_779.jpg: No
+NF_779.jpg: No (Detección Correcta)
+NF_780.jpg: No
+NF_780.jpg: No (Detección Correcta)
+NF_782.jpg: No
+NF_782.jpg: No (Detección Correcta)
+NF_791.jpg: No
+NF_791.jpg: No (Detección Correcta)
+NF_792.jpg: No
+NF_792.jpg: No (Detección Correcta)
+NF_8.jpg: No
+NF_8.jpg: No (Detección Correcta)
+NF_81.jpg: No
+NF_81.jpg: No (Detección Correcta)
+NF_828.jpg: No
+NF_828.jpg: No (Detección Correcta)
+NF_846.jpg: No
+NF_846.jpg: No (Detección Correcta)
+NF_848.jpg: No
+NF_848.jpg: No (Detección Correcta)
+NF_880.jpg: No
+NF_880.jpg: No (Detección Correcta)
+NF_883.jpg: No
+NF_883.jpg: No (Detección Correcta)
+NF_884.jpg: No
+NF_884.jpg: No (Detección Correcta)
+NF_902.jpg: No
+NF_902.jpg: No (Detección Correcta)
+NF_907.jpg: No
+NF_907.jpg: No (Detección Correcta)
+NF_908.jpg: No
+NF_908.jpg: No (Detección Correcta)
+NF_919.jpg: No
+NF_919.jpg: No (Detección Correcta)
+NF_953.jpg: No
+NF_953.jpg: No (Detección Correcta)
+NF_956.jpg: No
+NF_956.jpg: No (Detección Correcta)
+NF_957.jpg: Sí
+NF_957.jpg: Sí (Detección Errónea)
+NF_960.jpg: No
+NF_960.jpg: No (Detección Correcta)
+NF_961.jpg: Sí
+NF_961.jpg: Sí (Detección Errónea)
+NF_968.jpg: No
+NF_968.jpg: No (Detección Correcta)
+aa1.jpg: No
+aa1.jpg: No (Detección Correcta)
+aa10.jpg: No
+aa10.jpg: No (Detección Correcta)
+aa11.jpg: Sí
+aa11.jpg: Sí (Detección Errónea)
+aa12.jpg: No
+aa12.jpg: No (Detección Correcta)
+aa13.jpg: No
+aa13.jpg: No (Detección Correcta)
+aa14.jpg: No
+aa14.jpg: No (Detección Correcta)
+aa15.jpg: No
+aa15.jpg: No (Detección Correcta)
+aa16.jpg: No
+aa16.jpg: No (Detección Correcta)
+aa17.jpg: No
+aa17.jpg: No (Detección Correcta)
+aa18.jpg: No
+aa18.jpg: No (Detección Correcta)
+aa19.jpg: No
+aa19.jpg: No (Detección Correcta)
+aa2.jpg: No
+aa2.jpg: No (Detección Correcta)
+aa20.jpg: No
+aa20.jpg: No (Detección Correcta)
+aa21.jpg: No
+aa21.jpg: No (Detección Correcta)
+aa22.jpg: No
+aa22.jpg: No (Detección Correcta)
+aa23.jpg: No
+aa23.jpg: No (Detección Correcta)
+aa3.jpg: No
+aa3.jpg: No (Detección Correcta)
+aa4.jpg: No
+aa4.jpg: No (Detección Correcta)
+aa5.jpg: No
+aa5.jpg: No (Detección Correcta)
+aa6.jpg: No
+aa6.jpg: No (Detección Correcta)
+aa7.jpg: No
+aa7.jpg: No (Detección Correcta)
+aa8.jpg: No
+aa8.jpg: No (Detección Correcta)
+aa9.jpg: No
+aa9.jpg: No (Detección Correcta)
+aaa1.jpg: No
+aaa1.jpg: No (Detección Correcta)
+aaa10.jpg: No
+aaa10.jpg: No (Detección Correcta)
+aaa11.jpg: Sí
+aaa11.jpg: Sí (Detección Errónea)
+aaa12.jpg: No
+aaa12.jpg: No (Detección Correcta)
+aaa13.jpg: No
+aaa13.jpg: No (Detección Correcta)
+aaa14.jpg: No
+aaa14.jpg: No (Detección Correcta)
+aaa15.jpg: No
+aaa15.jpg: No (Detección Correcta)
+aaa16.jpg: No
+aaa16.jpg: No (Detección Correcta)
+aaa17.jpg: No
+aaa17.jpg: No (Detección Correcta)
+aaa18.jpg: No
+aaa18.jpg: No (Detección Correcta)
+aaa19.jpg: No
+aaa19.jpg: No (Detección Correcta)
+aaa2.jpg: No
+aaa2.jpg: No (Detección Correcta)
+aaa20.jpg: No
+aaa20.jpg: No (Detección Correcta)
+aaa21.jpg: No
+aaa21.jpg: No (Detección Correcta)
+aaa22.jpg: No
+aaa22.jpg: No (Detección Correcta)
+aaa23.jpg: No
+aaa23.jpg: No (Detección Correcta)
+aaa3.jpg: No
+aaa3.jpg: No (Detección Correcta)
+aaa4.jpg: No
+aaa4.jpg: No (Detección Correcta)
+aaa5.jpg: No
+aaa5.jpg: No (Detección Correcta)
+aaa6.jpg: No
+aaa6.jpg: No (Detección Correcta)
+aaa7.jpg: No
+aaa7.jpg: No (Detección Correcta)
+aaa8.jpg: No
+aaa8.jpg: No (Detección Correcta)
+aaa9.jpg: No
+aaa9.jpg: No (Detección Correcta)
+bb1.jpg: No
+bb1.jpg: No (Detección Correcta)
+bb10.jpg: No
+bb10.jpg: No (Detección Correcta)
+bb11.jpg: Sí
+bb11.jpg: Sí (Detección Errónea)
+bb12.jpg: No
+bb12.jpg: No (Detección Correcta)
+bb13.jpg: No
+bb13.jpg: No (Detección Correcta)
+bb14.jpg: No
+bb14.jpg: No (Detección Correcta)
+bb15.jpg: No
+bb15.jpg: No (Detección Correcta)
+bb16.jpg: No
+bb16.jpg: No (Detección Correcta)
+bb17.jpg: No
+bb17.jpg: No (Detección Correcta)
+bb18.jpg: No
+bb18.jpg: No (Detección Correcta)
+bb19.jpg: No
+bb19.jpg: No (Detección Correcta)
+bb2.jpg: No
+bb2.jpg: No (Detección Correcta)
+bb20.jpg: No
+bb20.jpg: No (Detección Correcta)
+bb21.jpg: No
+bb21.jpg: No (Detección Correcta)
+bb22.jpg: No
+bb22.jpg: No (Detección Correcta)
+bb23.jpg: No
+bb23.jpg: No (Detección Correcta)
+bb3.jpg: No
+bb3.jpg: No (Detección Correcta)
+bb4.jpg: No
+bb4.jpg: No (Detección Correcta)
+bb5.jpg: No
+bb5.jpg: No (Detección Correcta)
+bb6.jpg: No
+bb6.jpg: No (Detección Correcta)
+bb7.jpg: No
+bb7.jpg: No (Detección Correcta)
+bb8.jpg: No
+bb8.jpg: No (Detección Correcta)
+bb9.jpg: No
+bb9.jpg: No (Detección Correcta)
+bbb1.jpg: No
+bbb1.jpg: No (Detección Correcta)
+bbb10.jpg: No
+bbb10.jpg: No (Detección Correcta)
+bbb11.jpg: Sí
+bbb11.jpg: Sí (Detección Errónea)
+bbb12.jpg: No
+bbb12.jpg: No (Detección Correcta)
+bbb13.jpg: No
+bbb13.jpg: No (Detección Correcta)
+bbb14.jpg: No
+bbb14.jpg: No (Detección Correcta)
+bbb15.jpg: No
+bbb15.jpg: No (Detección Correcta)
+bbb16.jpg: No
+bbb16.jpg: No (Detección Correcta)
+bbb17.jpg: No
+bbb17.jpg: No (Detección Correcta)
+bbb18.jpg: No
+bbb18.jpg: No (Detección Correcta)
+bbb19.jpg: No
+bbb19.jpg: No (Detección Correcta)
+bbb2.jpg: No
+bbb2.jpg: No (Detección Correcta)
+bbb20.jpg: No
+bbb20.jpg: No (Detección Correcta)
+bbb21.jpg: No
+bbb21.jpg: No (Detección Correcta)
+bbb22.jpg: No
+bbb22.jpg: No (Detección Correcta)
+bbb23.jpg: No
+bbb23.jpg: No (Detección Correcta)
+bbb3.jpg: No
+bbb3.jpg: No (Detección Correcta)
+bbb4.jpg: No
+bbb4.jpg: No (Detección Correcta)
+bbb5.jpg: No
+bbb5.jpg: No (Detección Correcta)
+bbb6.jpg: No
+bbb6.jpg: No (Detección Correcta)
+bbb7.jpg: No
+bbb7.jpg: No (Detección Correcta)
+bbb8.jpg: No
+bbb8.jpg: No (Detección Correcta)
+bbb9.jpg: No
+bbb9.jpg: No (Detección Correcta)
+bosque1.jpg: No
+bosque1.jpg: No (Detección Correcta)
+c1.jpg: No
+c1.jpg: No (Detección Correcta)
+c10.jpg: No
+c10.jpg: No (Detección Correcta)
+c11.jpg: Sí
+c11.jpg: Sí (Detección Errónea)
+c12.jpg: No
+c12.jpg: No (Detección Correcta)
+c13.jpg: No
+c13.jpg: No (Detección Correcta)
+c14.jpg: No
+c14.jpg: No (Detección Correcta)
+c15.jpg: No
+c15.jpg: No (Detección Correcta)
+c16.jpg: No
+c16.jpg: No (Detección Correcta)
+c17.jpg: No
+c17.jpg: No (Detección Correcta)
+c18.jpg: No
+c18.jpg: No (Detección Correcta)
+c19.jpg: No
+c19.jpg: No (Detección Correcta)
+c2.jpg: No
+c2.jpg: No (Detección Correcta)
+c20.jpg: No
+c20.jpg: No (Detección Correcta)
+c21.jpg: No
+c21.jpg: No (Detección Correcta)
+c22.jpg: No
+c22.jpg: No (Detección Correcta)
+c23.jpg: No
+c23.jpg: No (Detección Correcta)
+c3.jpg: No
+c3.jpg: No (Detección Correcta)
+c4.jpg: No
+c4.jpg: No (Detección Correcta)
+c5.jpg: No
+c5.jpg: No (Detección Correcta)
+c6.jpg: No
+c6.jpg: No (Detección Correcta)
+c7.jpg: No
+c7.jpg: No (Detección Correcta)
+c8.jpg: No
+c8.jpg: No (Detección Correcta)
+c9.jpg: No
+c9.jpg: No (Detección Correcta)
+cc1.jpg: No
+cc1.jpg: No (Detección Correcta)
+cc10.jpg: No
+cc10.jpg: No (Detección Correcta)
+cc11.jpg: Sí
+cc11.jpg: Sí (Detección Errónea)
+cc12.jpg: No
+cc12.jpg: No (Detección Correcta)
+cc13.jpg: No
+cc13.jpg: No (Detección Correcta)
+cc14.jpg: No
+cc14.jpg: No (Detección Correcta)
+cc15.jpg: No
+cc15.jpg: No (Detección Correcta)
+cc16.jpg: No
+cc16.jpg: No (Detección Correcta)
+cc17.jpg: No
+cc17.jpg: No (Detección Correcta)
+cc18.jpg: No
+cc18.jpg: No (Detección Correcta)
+cc19.jpg: No
+cc19.jpg: No (Detección Correcta)
+cc2.jpg: No
+cc2.jpg: No (Detección Correcta)
+cc20.jpg: No
+cc20.jpg: No (Detección Correcta)
+cc21.jpg: No
+cc21.jpg: No (Detección Correcta)
+cc22.jpg: No
+cc22.jpg: No (Detección Correcta)
+cc23.jpg: No
+cc23.jpg: No (Detección Correcta)
+cc3.jpg: No
+cc3.jpg: No (Detección Correcta)
+cc4.jpg: No
+cc4.jpg: No (Detección Correcta)
+cc5.jpg: No
+cc5.jpg: No (Detección Correcta)
+cc6.jpg: No
+cc6.jpg: No (Detección Correcta)
+cc7.jpg: No
+cc7.jpg: No (Detección Correcta)
+cc8.jpg: No
+cc8.jpg: No (Detección Correcta)
+cc9.jpg: No
+cc9.jpg: No (Detección Correcta)
+ccc1.jpg: No
+ccc1.jpg: No (Detección Correcta)
+ccc10.jpg: No
+ccc10.jpg: No (Detección Correcta)
+ccc11.jpg: Sí
+ccc11.jpg: Sí (Detección Errónea)
+ccc12.jpg: No
+ccc12.jpg: No (Detección Correcta)
+ccc13.jpg: No
+ccc13.jpg: No (Detección Correcta)
+ccc14.jpg: No
+ccc14.jpg: No (Detección Correcta)
+ccc15.jpg: No
+ccc15.jpg: No (Detección Correcta)
+ccc16.jpg: No
+ccc16.jpg: No (Detección Correcta)
+ccc17.jpg: No
+ccc17.jpg: No (Detección Correcta)
+ccc18.jpg: No
+ccc18.jpg: No (Detección Correcta)
+ccc19.jpg: No
+ccc19.jpg: No (Detección Correcta)
+ccc2.jpg: No
+ccc2.jpg: No (Detección Correcta)
+ccc20.jpg: No
+ccc20.jpg: No (Detección Correcta)
+ccc21.jpg: No
+ccc21.jpg: No (Detección Correcta)
+ccc22.jpg: No
+ccc22.jpg: No (Detección Correcta)
+ccc23.jpg: No
+ccc23.jpg: No (Detección Correcta)
+ccc3.jpg: No
+ccc3.jpg: No (Detección Correcta)
+ccc4.jpg: No
+ccc4.jpg: No (Detección Correcta)
+ccc5.jpg: No
+ccc5.jpg: No (Detección Correcta)
+ccc6.jpg: No
+ccc6.jpg: No (Detección Correcta)
+ccc7.jpg: No
+ccc7.jpg: No (Detección Correcta)
+ccc8.jpg: No
+ccc8.jpg: No (Detección Correcta)
+ccc9.jpg: No
+ccc9.jpg: No (Detección Correcta)

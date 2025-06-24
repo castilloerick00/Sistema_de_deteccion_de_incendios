@@ -1,0 +1,6 @@
+Resultados de Detección de Fuego:
+
+Imágenes con FUEGO:
+2.jpg: Sí (Detección Correcta)
+bosque8.jpg: Sí (Detección Correcta)
+d3.jpg: Sí (Detección Correcta)
